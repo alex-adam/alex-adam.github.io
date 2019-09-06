@@ -1,0 +1,48 @@
+body {
+  background-color: #0a192f;
+}
+
+a {
+  color: #47b6a4;
+  font-family: 'Source Code Pro', monospace;
+}
+
+li {
+  line-height: 1.5;
+}
+
+.monoFont {
+  color: #47b6a4;
+  font-family: 'Source Code Pro', monospace;
+  font-size: 11pt;
+}
+
+#greeting {
+  margin-bottom: 20px;
+}
+
+#name {
+  color: #e0ebfa;
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 42pt;
+  margin-top: 0px;
+  margin-bottom: 30px;
+  text-transform: uppercase;
+}
+
+#description {
+  color: #8791b0;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+#main {
+  margin: 100px;
+  margin-top: 150px;
+}
+
+/*
+Why do C# and Java developers keep breaking their keyboards?
+ - Because they use a strongly typed language
+*/
